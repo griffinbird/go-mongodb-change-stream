@@ -3,7 +3,7 @@ module mongodb-changestream-go
 go 1.17
 
 require (
-	github.com/google/gofuzz v1.0.0
+	github.com/joho/godotenv v1.4.0
 	go.mongodb.org/mongo-driver v1.8.3
 )
 
